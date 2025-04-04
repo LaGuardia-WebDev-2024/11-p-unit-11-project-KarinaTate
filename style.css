@@ -34,9 +34,13 @@ html{
 }
 
 h2{
-  color: black;
+  color: pink;
 /*   font-size: 10px; */
 }
+
+h1{color:green}
+
+li{color: pink}
 
 #start{
   text-align: left;
